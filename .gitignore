@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Vite build output
+dist/
+
+# Optional logs
+*.log
+
+# dotenv files (optional, if used)
+.env
