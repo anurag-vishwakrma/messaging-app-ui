@@ -9,3 +9,5 @@ dist/
 
 # dotenv files (optional, if used)
 .env
+
+notes.txt
